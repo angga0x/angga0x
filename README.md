@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mas Angga!
+# 👋 Hello, I'm Angga Pratama!
 
 ## 🚀 About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
