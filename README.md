@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Angga Pratama!
+# 👋 Hello, I'm Mas Angga!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/angga0x/angga0x/main/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
@@ -36,4 +40,4 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - 💬 Ask me about [Your Expertise]
 
 ---
-⭐️ From [Angga Pratama](https://github.com/angga0x) 
+⭐️ From [Mas Angga](https://github.com/angga0x) 
