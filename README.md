@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Mas Angga!
+# 👋 Hello, I'm Angga!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/angga0x/angga0x/main/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/angga0x/angga0x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🚀 About Me
@@ -40,4 +40,4 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - 💬 Ask me about [Your Expertise]
 
 ---
-⭐️ From [Mas Angga](https://github.com/angga0x) 
+⭐️ From [Angga](https://github.com/angga0x) 
