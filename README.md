@@ -1,54 +1,54 @@
-# 🌟 Hello World, I'm Angga! 
+# 🌟 Halo Dunia, Saya Angga!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;QRIS+Payment+Specialist;API+Integration+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Spesialis+Pembayaran+QRIS;Ahli+Integrasi+API;Selalu+Belajar+Teknologi+Baru" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
 ```javascript
 const angga = {
-    pronouns: "He/Him",
-    location: "Indonesia 🇮🇩",
-    currentFocus: "Building scalable payment systems",
-    askMeAbout: ["QRIS", "Payment Gateway", "API Integration", "Node.js", "Fastify"],
-    technologies: {
+    pronouns: "Dia/Beliau",
+    lokasi: "Indonesia 🇮🇩",
+    fokusSekarang: "Membangun sistem pembayaran yang scalable",
+    tanyakanTentang: ["QRIS", "Payment Gateway", "Integrasi API", "Node.js", "Fastify"],
+    teknologi: {
         backend: ["Node.js", "Fastify", "Express.js", "Python", "PHP"],
         frontend: ["JavaScript", "HTML5", "CSS3", "React", "Vue.js"],
         database: ["SQLite", "MySQL", "PostgreSQL", "MongoDB"],
         tools: ["Git", "Docker", "Postman", "VS Code"],
         cloud: ["AWS", "Google Cloud", "Heroku"]
     },
-    currentProject: "QRIS Dynamic Payment System with Real-time Polling",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    proyekSekarang: "Sistem Pembayaran QRIS Dinamis dengan Real-time Polling",
+    faktaMenarik: "Saya debug pakai console.log dan tidak malu! 😄"
 };
 ```
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Alat
 
 <div align="center">
 
-### Languages
+### Bahasa Pemrograman
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Framework & Library
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Databases
+### Database
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### Tools & Platform
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +57,7 @@ const angga = {
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Analitik GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angga0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -68,12 +68,12 @@ const angga = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angga0x&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Trofi GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angga0x&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Featured Projects
+## 🔥 Proyek Unggulan
 
 <div align="center">
 
@@ -82,29 +82,29 @@ const angga = {
 
 </div>
 
-## 💼 What I'm Working On
+## 💼 Apa yang Sedang Saya Kerjakan
 
-- 🔭 **Currently building:** QRIS Dynamic Payment System with real-time transaction polling
-- 🌱 **Learning:** Advanced Node.js patterns, Microservices architecture
-- 👯 **Looking to collaborate on:** Payment gateway integrations, API development
-- 💬 **Ask me about:** QRIS implementation, Fastify optimization, Database design
-- ⚡ **Fun fact:** I can debug a payment flow faster than I can order coffee ☕
+- 🔭 **Sedang membangun:** Sistem Pembayaran QRIS Dinamis dengan polling transaksi real-time
+- 🌱 **Sedang belajar:** Pola Node.js tingkat lanjut, Arsitektur Microservices
+- 👯 **Ingin berkolaborasi dalam:** Integrasi payment gateway, Pengembangan API
+- 💬 **Tanya saya tentang:** Implementasi QRIS, Optimasi Fastify, Desain Database
+- ⚡ **Fakta menarik:** Saya bisa debug alur pembayaran lebih cepat dari pesan kopi ☕
 
-## 📈 Contribution Graph
+## 📈 Grafik Kontribusi
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angga0x&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 2024 Goals
+## 🎯 Target 2024
 
-- [ ] Contribute to 5 open source projects
-- [ ] Build a comprehensive payment gateway solution
-- [ ] Master microservices architecture
-- [ ] Write technical blog posts
-- [ ] Mentor junior developers
+- [ ] Berkontribusi ke 5 proyek open source
+- [ ] Membangun solusi payment gateway yang komprehensif
+- [ ] Menguasai arsitektur microservices
+- [ ] Menulis artikel blog teknis
+- [ ] Menjadi mentor untuk developer junior
 
-## 📫 Let's Connect!
+## 📫 Mari Terhubung!
 
 <div align="center">
 
@@ -115,13 +115,13 @@ const angga = {
 
 </div>
 
-## 💡 Random Dev Quote
+## 💡 Quote Developer Random
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Ular Kontribusi
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/angga0x/angga0x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -132,7 +132,7 @@ const angga = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=angga0x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  **"Kode itu seperti humor. Kalau harus dijelaskan, berarti jelek." – Cory House**
   
-  ⭐️ From [Angga](https://github.com/angga0x) with ❤️
+  ⭐️ Dari [Angga](https://github.com/angga0x) dengan ❤️
 </div>
